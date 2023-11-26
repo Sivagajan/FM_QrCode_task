@@ -23,6 +23,11 @@ img {
 .text {
 	padding: 0 20px;
 }
+p {
+	font-size: 15px;
+	font-family: sans-serif;
+	/* fonts nicht runtergeladen */
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
